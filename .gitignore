@@ -1,0 +1,11 @@
+# data and big outputs
+data/
+*.h5ad
+*.npy
+results/models/
+
+# python / jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.snakemake/
+logs/*.tmp

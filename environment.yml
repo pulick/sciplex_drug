@@ -1,0 +1,15 @@
+name: sciplex
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - anndata
+  - matplotlib
+  - rdkit
+  - pandas
+  - scipy
+  - scanpy
+  - jupyter
+  - numpy
+  - ipykernel
+prefix: /home/abraham/miniconda3/envs/sciplex

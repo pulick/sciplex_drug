@@ -1,0 +1,1 @@
+Tested 200-gene and top-0.1% cutoffs; both removed cells mainly from cytotoxic or mitosis-blocking drugs, so only a minimal filter (<100 genes) was applied to preserve drug effects.

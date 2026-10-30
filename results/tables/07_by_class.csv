@@ -1,0 +1,9 @@
+class,r_mean,r_rf,n
+Epigenetic regulation,0.537,0.695,59
+Protein folding & Protein degradation,0.194,0.678,7
+Cell cycle regulation,0.458,0.639,58
+JAK/STAT signaling,0.342,0.481,16
+Tyrosine kinase signaling,0.387,0.37,33
+Apoptotic regulation,0.269,0.316,7
+DNA damage & DNA repair,0.298,0.316,14
+Nuclear receptor signaling,0.349,0.208,5
